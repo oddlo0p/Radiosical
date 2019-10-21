@@ -6,7 +6,6 @@
 
 ## pySerial
 #### Windows
-*When installing, please tick the box "Add Python 3.X to PATH" to avoid any problems during the installation. If Python is already installed but you did not tick the box during installation, please skip to the section "I forgot to add Python to PATH" below.*
 
 1. Open **Command Prompt** on your computer by opening the Start Menu, typing `cmd`, and pressing the Enter key.
 
