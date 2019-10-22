@@ -7,7 +7,8 @@
 ## pySerial
 #### Windows
 
-1. Open **Command Prompt** on your computer by opening the Start Menu, typing `cmd`, and pressing the Enter key.
+>***This installation requires WinRAR or 7-Zip. To install 7-Zip, [click here](https://www.7-zip.org/). Or, if you prefer a direct download, [click here](https://www.7-zip.org/a/7z1900-x64.exe).***
+1. Open **Command Prompt** on your computer by opening the Start Menu, typing `cmd`, and pressing the Enter key. 
 
 2. Confirm *Python* is installed correctly by typing `python` into the code line. If you see a message that says:
 ```
@@ -21,5 +22,6 @@ Python 2.7.10 (default, Aug 17 2018, 19:45:58)
 Type "help", "copyright", "credits" or "license" for more information.
 ```
 You installed Python correctly.
+3. Open a web browser and navigate to [www.pypy.org/project/pyserial](https://pypi.python.org/pypi/pyserial) and select the "Download files" tab under Navigation.
 
-3. 
+4. Click on "pyserial-3.4.tar.gz" to download.
