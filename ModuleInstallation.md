@@ -8,6 +8,7 @@
 #### Windows
 
 >***This installation requires WinRAR or 7-Zip. To install 7-Zip, [click here](https://www.7-zip.org/). Or, if you prefer a direct download, [click here](https://www.7-zip.org/a/7z1900-x64.exe).***
+
 1. Open **Command Prompt** on your computer by opening the Start Menu, typing `cmd`, and pressing the Enter key. 
 
 2. Confirm *Python* is installed correctly by typing `python` into the code line. If you see a message that says:
