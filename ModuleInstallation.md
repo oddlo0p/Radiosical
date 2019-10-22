@@ -22,6 +22,7 @@ Python 2.7.10 (default, Aug 17 2018, 19:45:58)
 Type "help", "copyright", "credits" or "license" for more information.
 ```
 You installed Python correctly.
+
 3. Open a web browser and navigate to [www.pypy.org/project/pyserial](https://pypi.python.org/pypi/pyserial) and select the "Download files" tab under Navigation.
 
 4. Click on "pyserial-3.4.tar.gz" to download.
