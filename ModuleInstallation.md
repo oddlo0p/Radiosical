@@ -24,6 +24,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 You installed Python correctly.
 
-3. Open a web browser and navigate to [www.pypy.org/project/pyserial](https://pypi.python.org/pypi/pyserial) and select the "Download files" tab under Navigation.
+3. Open a web browser and navigate to [https://pypi.python.org/pypi/pyserial](https://pypi.python.org/pypi/pyserial) and select the "Download files" tab under Navigation.
 
 4. Click on "pyserial-3.4.tar.gz" to download.
