@@ -16,7 +16,9 @@
 'python' is not recognized as an internal or external command,
 operable program, or batch file.
 ```
-Python was installed incorrectly. This means the checkbox "Add Python 3.X to PATH" was not ticked during the initial Python installation. In that case, [learn what to do.] If you see a message that says something like:
+Python was installed incorrectly. This means the checkbox "Add Python 3.X to PATH" was not ticked during the initial Python installation. In that case, [learn what to do.](https://github.com/oddlo0p/Radiosical/blob/master/ModuleInstallation.md#i-did-not-install-python-to-the-path)
+
+If you see a message that says something like:
 ```
 Python 2.7.10 (default, Aug 17 2018, 19:45:58) 
 [GCC 4.2.1 Compatible Apple LLVM 10.0.0 (clang-1000.0.42)] on darwin
