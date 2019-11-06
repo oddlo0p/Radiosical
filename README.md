@@ -22,3 +22,7 @@ Materials needed:
 * Tape/Hot Glue if tags are meant to be permanently attached
 * Material of your choice used to encase the RFID tags (I will be using cardboard)
 * OPTIONAL: Beginner sheet music
+
+*Basic Python knowledge may be required.*
+
+Safety Concerns
