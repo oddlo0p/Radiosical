@@ -25,16 +25,7 @@ bells = [
 ]
 
 
-# given the tag OR the friendly name, start the bell sound. This
-# routine searches by the friendly sound name, but if you searched
-# the entry for the RFID tag, imagine the possibilities...
 def play_a_sound(s):
-    # len(bells) tells us how many of those individual lists
-    # there are in the list 'bells'. Look at each one.
-    # If, for example, the user asks for "C3", look
-    # at each list for a "C3" in position 2 of the list.
-    # When we see one, start playing the sound file for
-    # that note.
     for i in range(0, len(bells)):
         # print (bells[i][2])
         # Does the friendly name in this list match what we're looking for?
