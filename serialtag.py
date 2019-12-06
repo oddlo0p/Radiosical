@@ -17,12 +17,17 @@ baud = 2400
 serial_port = serial.Serial(port, baud, timeout=0)
 
 
-# will get called by the rest of the program when a complete tag comes in from the reader
+# After a tag has been detected, this function will run
 def handle_data(data):
+    # Used to check the ten character tag ID
     print("data=", data)
+    # Function play_a_sound from playingsound.py takes parameter "data",
+    # which checks for the tag ID. This will take the audio corresponding
+    # with that ID and play it.
     play_a_sound(data)
 
 
+# Begins the code sequence
 print("Please wave a tag near the reader to play notes.")
 
 
